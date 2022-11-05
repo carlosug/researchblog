@@ -31,7 +31,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-fdd8536acd3c57081720.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-49fb727a4f7bcd204175.js
+/webpack-runtime-b8c4ec64d043d3942477.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-3761df4ab6ee9f056936.js
   Cache-Control: public, max-age=31536000, immutable
@@ -39,309 +39,309 @@
   Cache-Control: public, max-age=31536000, immutable
 /dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js
   Cache-Control: public, max-age=31536000, immutable
-/app-69a7fa596ba65347b11d.js
+/app-46a5df7aa9353febd08b.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/carlosug.github.io/researchblog/offline-plugin-app-shell-fallback/
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/404
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tags
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/categories
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/posts/Social-research-methods-statistics
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/posts/Social-research-methods-statistics/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/posts/environmental-friendly
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/posts/environmental-friendly/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/posts/learn-for-fun (Data Science)
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/posts/learn-for-fun (Data Science)/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/posts/Geolocation data
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/posts/Geolocation data/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/pages/teaching/
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/pages/teaching/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/anomaly-detection
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/anomaly-detection/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/climate-change
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/climate-change/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/data-science
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/data-science/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/human-behaviour
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/human-behaviour/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/javascript
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/javascript/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/mplus
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/mplus/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/open-source
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/r
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/r/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/spy
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/spy/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/tag/structural-equation-modeling
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/tag/structural-equation-modeling/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/category/dissertation
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/category/dissertation/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/category/geolocation
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/category/geolocation/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/category/open-source
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/category/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/category/social-research-and-statistics
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/category/social-research-and-statistics/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/carlosug.github.io/researchblog/404.html
-  Link: </carlosug.github.io/researchblog/webpack-runtime-49fb727a4f7bcd204175.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/app-69a7fa596ba65347b11d.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
-  Link: </carlosug.github.io/researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </carlosug.github.io/researchblog/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/offline-plugin-app-shell-fallback/
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/404
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tags
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/categories
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/Social-research-methods-statistics
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/Social-research-methods-statistics/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/learn-for-fun (Data Science)
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/learn-for-fun (Data Science)/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/environmental-friendly
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/environmental-friendly/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/Geolocationdata
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/Geolocationdata/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/pages/teaching/
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/pages/teaching/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/anomaly-detection
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/anomaly-detection/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/climate-change
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/climate-change/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/data-science
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/data-science/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/human-behaviour
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/human-behaviour/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/javascript
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/javascript/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/mplus
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/mplus/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/open-source
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/r
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/r/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/spy
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/spy/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/tag/structural-equation-modeling
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/tag/structural-equation-modeling/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/category/dissertation
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/category/dissertation/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/category/geolocation
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/category/geolocation/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/category/open-source
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/category/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/category/social-research-and-statistics
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/category/social-research-and-statistics/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/404.html
+  Link: </researchblog/webpack-runtime-b8c4ec64d043d3942477.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-46a5df7aa9353febd08b.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
