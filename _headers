@@ -93,18 +93,6 @@
   Link: </researchblog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
   Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </researchblog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/researchblog/posts/environmental-friendly
-  Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
-  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </researchblog/app-2ea268d2c02be97c4c2f.js>; rel=preload; as=script
-  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
-  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </researchblog/page-data/posts/environmental-friendly/page-data.json>; rel=preload; as=fetch; crossorigin
 /researchblog/posts/Social-research-methods-statistics
   Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
   Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -117,18 +105,6 @@
   Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
   Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </researchblog/page-data/posts/Social-research-methods-statistics/page-data.json>; rel=preload; as=fetch; crossorigin
-/researchblog/posts/learn-for-fun (Data Science)
-  Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
-  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
-  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
-  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
-  Link: </researchblog/app-2ea268d2c02be97c4c2f.js>; rel=preload; as=script
-  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
-  Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
-  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </researchblog/page-data/posts/learn-for-fun (Data Science)/page-data.json>; rel=preload; as=fetch; crossorigin
 /researchblog/posts/Geolocationdata
   Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
   Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -141,6 +117,30 @@
   Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
   Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </researchblog/page-data/posts/Geolocationdata/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/environmental-friendly
+  Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-2ea268d2c02be97c4c2f.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/environmental-friendly/page-data.json>; rel=preload; as=fetch; crossorigin
+/researchblog/posts/learn-for-fun (Data Science)
+  Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/framework-3761df4ab6ee9f056936.js>; rel=preload; as=script
+  Link: </researchblog/532a2f07-92db97c0addf07d5cb73.js>; rel=preload; as=script
+  Link: </researchblog/dc6a8720040df98778fe970bf6c000a41750d3ae-33a1bc593f7526e84410.js>; rel=preload; as=script
+  Link: </researchblog/app-2ea268d2c02be97c4c2f.js>; rel=preload; as=script
+  Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </researchblog/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </researchblog/component---src-templates-post-template-js-300db2720c3ba4ddb4e8.js>; rel=preload; as=script
+  Link: </researchblog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </researchblog/page-data/posts/learn-for-fun (Data Science)/page-data.json>; rel=preload; as=fetch; crossorigin
 /researchblog/pages/teaching/
   Link: </researchblog/webpack-runtime-4441e4742fe3dd3fe02d.js>; rel=preload; as=script
   Link: </researchblog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
